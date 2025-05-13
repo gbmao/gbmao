@@ -1,4 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Gabriel
+
+🎓 Estudante de Ciência da Computação  
+🧰 Praticando C# com foco em lógica, arrays, menus interativos e projetos de aprendizado  
+🔨 Marceneiro por profissão, programador por paixão  
+
+## 🧠 O que estou aprendendo
+- Lógica de programação
+- C# e .NET
+- Versionamento com Git e GitHub
+
+## 🔄 Projetos em andamento
+- Sistema de cadastro de alunos com cálculo de média
+- Scripts de automação simples em Bash
+- Explorando conceitos básicos de algoritmos e estruturas de dados
+
+## 📫 Como me encontrar
+- ✉️ [ga.oliveira1917@gmail.com](mailto:ga.oliveira1917@gmail.com)
+- 🐱 [GitHub: gbmao](https://github.com/gbmao)
+
+
+---
+
+*Atualmente focado em evoluir passo a passo na programação. Todo dia um pouco melhor!*
+
 
 <!--
 **gbmao/gbmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
