@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbmao&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbmao&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 🎓 Estudante de Ciência da Computação  
 🧰 Praticando C# com foco em lógica, arrays, menus interativos e projetos de aprendizado  
@@ -22,7 +22,7 @@
 - ✉️ [ga.oliveira1917@gmail.com](mailto:ga.oliveira1917@gmail.com)
 - 🐱 [GitHub: gbmao](https://github.com/gbmao)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbmao&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 *Atualmente focado em evoluir passo a passo na programação. Todo dia um pouco melhor!*
