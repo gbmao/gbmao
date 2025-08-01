@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbmao&show_icons=true&theme=radical)
 
-
+ 
 
 🎓 Estudante de Ciência da Computação  
 🧰 Praticando C# com foco em lógica, arrays, menus interativos e projetos de aprendizado  
