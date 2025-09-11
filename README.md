@@ -5,11 +5,12 @@
  
 
 🎓 Estudante de Ciência da Computação  
-🧰 Praticando C# com foco em lógica, arrays, menus interativos e projetos de aprendizado  
+🧰 Praticando Java
 🔨 Marceneiro por profissão, programador por paixão  
 
 ## 🧠 O que estou aprendendo
 - Lógica de programação
+- Java
 - C# e .NET
 - Versionamento com Git e GitHub
 
@@ -20,7 +21,6 @@
 
 ## 📫 Como me encontrar
 - ✉️ [ga.oliveira1917@gmail.com](mailto:ga.oliveira1917@gmail.com)
-- 🐱 [GitHub: gbmao](https://github.com/gbmao)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbmao&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ---
